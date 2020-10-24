@@ -1,4 +1,4 @@
-Day or Night?_2013,State,Date_2013,Race_2013,Vehicle Type_2013,From Where_2013,To Where_2013,Trip distance_2013,Alcohol Today_2013,Age Range_2013,Zipcode_2013,Education Level_2013,Employed_2013,Blood Alcohol Content_2013
+Day or Night?_2013,State_2013,Date_2013,Race_2013,Vehicle Type_2013,From Where_2013,To Where_2013,Trip distance_2013,Alcohol Today_2013,Age Range_2013,Zipcode_2013,Education Level_2013,Employed_2013,Blood Alcohol Content_2013
 3,CA,12/7/2013 1:36,8,Car,Other,Other,0-5,No,43.0,93003.0,High school graduate,Employed Full-time,#NULL!
 3,CA,12/7/2013 1:56,1,Car,Other,Own home,More than 20,No,21.0,93033.0,Some college - no degree,Employed Full-time,#NULL!
 3,CA,12/7/2013 2:17,8,Car,Other,Own home,0-5,Yes,23.0,93035.0,Some college - no degree,Other __________________________,#NULL!
